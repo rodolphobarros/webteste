@@ -6,9 +6,7 @@
     "validateUpsert": true
   },
   "properties": {
-    "local": "comodo",
-    "value": true,
-    "conect":"wi-fi"
+    
   },
   "validations": [],
   "relations": {},
