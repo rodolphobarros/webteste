@@ -1,15 +1,11 @@
 {
-  "db": {
-    "name": "db",
-    "connector": "memory"
-  },
-  "ComposeMongo": {
+    "db":{
     "host": "localhost",
     "port": 27017,
     "url": "mongodb://localhost:27017/test",
     "database": "test",
     "password": "",
-    "name": "ComposeMongo",
+    "name": "db",
     "user": "",
     "useNewUrlParser": false,
     "connector": "mongodb"
