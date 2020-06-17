@@ -6,11 +6,9 @@
     "validateUpsert": true
   },
   "properties": {
-    "luminaria": {
-      "type": "string",
-      "required": true,
-      "default": "central"
-    }
+    "local": "comodo",
+    "value": true,
+    "conect":"wi-fi"
   },
   "validations": [],
   "relations": {},

@@ -3,13 +3,13 @@
     "name": "db",
     "connector": "memory"
   },
-  "base": {
+  "ComposeMongo": {
     "host": "localhost",
     "port": 27017,
-    "url": "mongodb://127.0.0.1:27017",
+    "url": "mongodb://localhost:27017/test",
     "database": "test",
     "password": "",
-    "name": "base",
+    "name": "ComposeMongo",
     "user": "",
     "useNewUrlParser": false,
     "connector": "mongodb"
